@@ -5,9 +5,12 @@
 Full-Stack Developer at [AGAVA](https://agava.tech/);<br>
 Unity and C# instructor at [IJunior](https://ijunior.ru/unity-start);<br>
 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Valerian-4epik)](https://git.io/streak-stats)
 
 #### 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 Stack:
 - Геймдизайн: Работа с ассетами и настройка параметров, продуктовые метрики, аналитика, тестирование, обработка фидбеков, общение с издателем,дизайн игровых систем, проработка механик, дизайн уровней, UI/UX,составление технических заданий, ведение документации.
