@@ -5,6 +5,10 @@
 Full-Stack Developer at [AGAVA](https://agava.tech/);<br>
 Unity and C# instructor at [IJunior](https://ijunior.ru/unity-start);<br>
 
+### Контакты
+- [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Valeriiyan) 
+- [LinkedIn](https://www.linkedin.com/in/valeriyan-chepik-185800272/)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Valerian-4epik)](https://git.io/streak-stats)
 
