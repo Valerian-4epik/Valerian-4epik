@@ -28,3 +28,15 @@ Stack:
  - Adobe Illustrator, Blender, Aseprite - подгонка спрайтов, несложный дизайн UI, корректировка ассетов и.т.д
  - Работал с ассетами: ProBuilder, ProGrids, Cinemachine, Tilemap editor, Polybrush, Rayfire, ObiRope, RayFire, etc.
  - АI использование GPT, midjourney, etc в разработке игр.
+
+
+####
+🧰 IDE & tools
+
+<p align="left">
+    <a href="#"><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=red"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></a>
+</p>
