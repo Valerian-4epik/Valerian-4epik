@@ -2,7 +2,7 @@
 
 #### 
 
-Full-Stack Developer at [AGAVA](https://agava.tech/);<br>
+Full-Stack Developer at [Playrix]((https://playrix.com/));<br>
 Unity and C# instructor at [IJunior](https://ijunior.ru/unity-start);<br>
 
 ### Контакты
