@@ -16,6 +16,7 @@ Unity and C# instructor at [IJunior](https://ijunior.ru/unity-start);<br>
 #### 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
 Stack:
 - Геймдизайн: Работа с ассетами и настройка параметров, продуктовые метрики, аналитика, тестирование, обработка фидбеков, общение с издателем,дизайн игровых систем, проработка механик, дизайн уровней, UI/UX,составление технических заданий, ведение документации.
