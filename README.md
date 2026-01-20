@@ -2,7 +2,7 @@
 
 #### 
 
-Junior C++ programmer at [Playrix](https://playrix.com/);<br>
+C++ programmer at [Playrix](https://playrix.com/);<br>
 Technical Designer at [Playrix](https://playrix.com/);<br>
 Unity and C# instructor at [IJunior](https://ijunior.ru/unity-start);<br>
 
